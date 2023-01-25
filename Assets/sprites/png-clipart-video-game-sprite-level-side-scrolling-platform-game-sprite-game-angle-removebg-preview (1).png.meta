@@ -1,0 +1,364 @@
+fileFormatVersion: 2
+guid: 42adf172721768c41a763bee32bf7cd6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: png-clipart-video-game-sprite-level-side-scrolling-platform-game-sprite-game-angle-removebg-preview
+        (1)_0
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 165
+        width: 197
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b73f5ee57024b4d8228e9990604ac3
+      internalID: -443887949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-video-game-sprite-level-side-scrolling-platform-game-sprite-game-angle-removebg-preview
+        (1)_1
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 233
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a27fab9922c0e42a77544849af7791
+      internalID: -525133237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-video-game-sprite-level-side-scrolling-platform-game-sprite-game-angle-removebg-preview
+        (1)_2
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 233
+        width: 66
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1259e5e7e0c7ef148929f3b44e95c947
+      internalID: 1634475063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-video-game-sprite-level-side-scrolling-platform-game-sprite-game-angle-removebg-preview
+        (1)_3
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 166
+        width: 15
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f0195557e2a314787857bfa31bffac
+      internalID: 673611187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-video-game-sprite-level-side-scrolling-platform-game-sprite-game-angle-removebg-preview
+        (1)_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 71
+        width: 139
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd85c9be4922204c958078c6542dedc
+      internalID: 1372440767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-video-game-sprite-level-side-scrolling-platform-game-sprite-game-angle-removebg-preview
+        (1)_5
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 140
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb78a6a870c5564697dd1b77ae92ae0
+      internalID: -953995030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-video-game-sprite-level-side-scrolling-platform-game-sprite-game-angle-removebg-preview
+        (1)_6
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 142
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a232dbe1a2400c84885f142588634503
+      internalID: 323298024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-video-game-sprite-level-side-scrolling-platform-game-sprite-game-angle-removebg-preview
+        (1)_7
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 126
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a96b6ac0554a1b4e992679524c3ac89
+      internalID: 145576517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-video-game-sprite-level-side-scrolling-platform-game-sprite-game-angle-removebg-preview
+        (1)_8
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 126
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9535bb641ac0d4199c1325eb14c36b
+      internalID: 747563777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-video-game-sprite-level-side-scrolling-platform-game-sprite-game-angle-removebg-preview
+        (1)_9
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 103
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb7fce983274424785d2ed29f6353df
+      internalID: -1873308883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      png-clipart-video-game-sprite-level-side-scrolling-platform-game-sprite-game-angle-removebg-preview (1)_0: -443887949
+      png-clipart-video-game-sprite-level-side-scrolling-platform-game-sprite-game-angle-removebg-preview (1)_1: -525133237
+      png-clipart-video-game-sprite-level-side-scrolling-platform-game-sprite-game-angle-removebg-preview (1)_8: 747563777
+      png-clipart-video-game-sprite-level-side-scrolling-platform-game-sprite-game-angle-removebg-preview (1)_5: -953995030
+      png-clipart-video-game-sprite-level-side-scrolling-platform-game-sprite-game-angle-removebg-preview (1)_9: -1873308883
+      png-clipart-video-game-sprite-level-side-scrolling-platform-game-sprite-game-angle-removebg-preview (1)_2: 1634475063
+      png-clipart-video-game-sprite-level-side-scrolling-platform-game-sprite-game-angle-removebg-preview (1)_3: 673611187
+      png-clipart-video-game-sprite-level-side-scrolling-platform-game-sprite-game-angle-removebg-preview (1)_7: 145576517
+      png-clipart-video-game-sprite-level-side-scrolling-platform-game-sprite-game-angle-removebg-preview (1)_4: 1372440767
+      png-clipart-video-game-sprite-level-side-scrolling-platform-game-sprite-game-angle-removebg-preview (1)_6: 323298024
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
